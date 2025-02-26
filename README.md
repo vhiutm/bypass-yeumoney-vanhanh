@@ -12,6 +12,10 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 ## Cài Đặt
 
+[Video hướng dẫn cài đặt](https://drive.google.com/drive/folders/1-4ZfZzFrzVh_Nja1gx-3x-kQfMI66lvs?usp=sharing)
+
+Điện thoại cài tương tự như trên máy tính (Dùng firefox và cài extension tampermonkey)
+
 1. Cài đặt Tampermonkey trên trình duyệt Chrome hoặc Firefox.
 2. Cài đặt script bằng cách nhấp vào [Đây](https://github.com/thjvjpxz/bypass-yeumoney/raw/main/Bypass-Shortlink-1.0.user.js)
 
