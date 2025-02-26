@@ -13,7 +13,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 ## Cài Đặt
 
 1. Cài đặt Tampermonkey trên trình duyệt Chrome hoặc Firefox.
-2. Cài đặt script bằng cách nhấp vào [Đây](https://github.com/thjvjpxz/bypass-yeumoney/Bypass-Shortlink-0.1.user.js)
+2. Cài đặt script bằng cách nhấp vào [Đây](./Bypass-Shortlink-1.0.user.js)
 
 ## Sử Dụng
 
