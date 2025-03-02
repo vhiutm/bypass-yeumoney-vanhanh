@@ -36,3 +36,7 @@ Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, hãy liên h
 - Email: [acckthi7@gmail.com](mailto:acckthi7@gmail.com)
 - Telegram: [@thjvjpxz](https://t.me/thjvjpxz)
 - Facebook: [Thj Vjpxz](https://www.facebook.com/thi.17.8)
+
+## Credits
+
+Giao diện được lấy ý tưởng từ [phantatdung233](https://github.com/phantatdung233)
