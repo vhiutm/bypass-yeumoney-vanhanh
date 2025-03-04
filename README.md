@@ -23,6 +23,10 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 Sau khi cài đặt, extension sẽ tự động hoạt động khi bạn nhấp vào các liên kết shortlink của YeuMoney. Không cần bất kỳ cấu hình nào thêm.
 
+## Lưu ý
+
+- Nếu không chuyển hướng thì vui lòng nhấn nút 'Bypass'. Nếu vẫn không được thì nhấn 'Đổi nhiểm vụ
+
 ## Dịch Vụ
 
 - **Code Tool**: Nhận code các loại tool tự động, bot, macro
@@ -39,4 +43,4 @@ Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, hãy liên h
 
 ## Credits
 
-Giao diện được lấy ý tưởng từ [phantatdung233](https://github.com/phantatdung233)
+Giao diện lấy ý tưởng từ [phantatdung233](https://github.com/phantatdung233)
