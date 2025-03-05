@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Bypass-Shortlink
+// @name         Bypass-Yeumoney
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  https://github.com/thjvjpxz
-// @author       Thidz
+// @description  https://github.com/vhiutm
+// @author       vh
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
